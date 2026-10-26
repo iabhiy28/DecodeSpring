@@ -15,10 +15,11 @@
 | Phase | Topic | Status | Confidence | Last Revised |
 |-------|-------|--------|------------|--------------|
 | 0 | Environment Setup | ✅ Complete | 10/10 | 2026-10-24 |
-| 1 | Core Java Fundamentals | 🔵 In Progress | — | — |
-| 1 | OOP | ⬜ Not Started | — | — |
-| 1 | Java Memory Model | 🔵 In Progress | — | — |
-| 2 | Collections | ⬜ Not Started | — | — |
+| 1 | Core Java Fundamentals | 🔵 In Progress | 8/10 | 2026-10-26 |
+| 1 | OOP (Polymorphism & Composition) | ✅ Complete | 8/10 | 2026-10-26 |
+| 1 | Interfaces vs Abstract Classes | ✅ Complete | 8/10 | 2026-10-27 |
+| 1 | Java Memory Model | ✅ Complete | 9/10 | 2026-10-24 |
+| 2 | Collections (Hierarchy & Lists) | 🔵 In Progress | — | — |
 | 2 | HashMap Internals | ⬜ Not Started | — | — |
 | 3 | Modern Java (Lambdas, Streams) | ⬜ Not Started | — | — |
 | 4 | Exception Handling | ⬜ Not Started | — | — |
@@ -50,7 +51,8 @@
 ---
 
 ## 📝 Exercises Completed
-*(None yet)*
+- [Exercise1.java](file:///c:/Users/Abhishek%20Yadav/Desktop/LearnSpringAdv/docs/01-java/Exercise1.java): Interface Segregation & Composition with Media Player (Score: 7/10)
+- [Exercise2.java](file:///c:/Users/Abhishek%20Yadav/Desktop/LearnSpringAdv/docs/01-java/Exercise2.java): Abstract Class, Interface Contract & Constructor Chaining (Score: 7.5/10)
 
 ## 🏗️ Capstone Project Progress
 - **Project**: Enterprise Task & Project Management Platform
