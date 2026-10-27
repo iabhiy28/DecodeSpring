@@ -19,9 +19,9 @@
 | 1 | OOP (Polymorphism & Composition) | ✅ Complete | 8/10 | 2026-10-26 |
 | 1 | Interfaces vs Abstract Classes | ✅ Complete | 8/10 | 2026-10-27 |
 | 1 | Java Memory Model | ✅ Complete | 9/10 | 2026-10-24 |
-| 2 | Collections (Hierarchy & Lists) | 🔵 In Progress | — | — |
-| 2 | HashMap Internals | ⬜ Not Started | — | — |
-| 3 | Modern Java (Lambdas, Streams) | ⬜ Not Started | — | — |
+| 2 | Collections (Hierarchy & Lists) | ✅ Complete | 9/10 | 2026-10-27 |
+| 2 | HashMap Internals | ✅ Complete | 8.5/10 | 2026-10-27 |
+| 3 | Modern Java (Lambdas, Streams, Optional) | 🔵 In Progress | — | — |
 | 4 | Exception Handling | ⬜ Not Started | — | — |
 | 5 | Generics | ⬜ Not Started | — | — |
 | 6 | Multithreading & Concurrency | ⬜ Not Started | — | — |
