@@ -21,19 +21,19 @@
 | 1 | Java Memory Model | ✅ Complete | 9/10 | 2026-10-24 |
 | 2 | Collections (Hierarchy & Lists) | ✅ Complete | 9/10 | 2026-10-27 |
 | 2 | HashMap Internals | ✅ Complete | 8.5/10 | 2026-10-27 |
-| 3 | Modern Java (Lambdas, Streams, Optional) | 🔵 In Progress | — | — |
-| 4 | Exception Handling | ⬜ Not Started | — | — |
-| 5 | Generics | ⬜ Not Started | — | — |
-| 6 | Multithreading & Concurrency | ⬜ Not Started | — | — |
-| 7 | JVM Internals | ⬜ Not Started | — | — |
-| 8 | SQL & Databases | ⬜ Not Started | — | — |
-| 9 | JDBC | ⬜ Not Started | — | — |
-| 10 | Spring Core (IoC, DI) | ⬜ Not Started | — | — |
-| 11 | Spring Internals | ⬜ Not Started | — | — |
-| 12 | Spring Boot | ⬜ Not Started | — | — |
-| 13 | REST API Development | ⬜ Not Started | — | — |
-| 14 | Project Structure | ⬜ Not Started | — | — |
-| 15 | JPA + Hibernate | ⬜ Not Started | — | — |
+| 3 | Modern Java (Lambdas, Streams, Optional) | ✅ Complete | 9/10 | 2026-10-27 |
+| 4 | Exception Handling | ✅ Complete | 8.5/10 | 2026-10-29 |
+| 5 | Generics | ✅ Complete | 8.5/10 | 2026-10-29 |
+| 6 | Multithreading & Concurrency | ✅ Complete | 8.5/10 | 2026-10-29 |
+| 7 | JVM Internals | ✅ Complete | 8.5/10 | 2026-10-29 |
+| 8 | SQL & Databases | ✅ Complete | 8.5/10 | 2026-10-29 |
+| 9 | JDBC | ✅ Complete | 9/10 | 2026-10-29 |
+| 10 | Spring Core (IoC, DI) | ✅ Complete | 9/10 | 2026-10-29 |
+| 11 | Spring Internals | ✅ Complete | 9/10 | 2026-10-29 |
+| 12 | Spring Boot | ✅ Complete | 9/10 | 2026-10-29 |
+| 13 | REST API Development | ✅ Complete | 9/10 | 2026-10-29 |
+| 14 | Project Structure | ✅ Complete | 9/10 | 2026-10-29 |
+| 15 | JPA + Hibernate | 🔵 In Progress | — | — |
 | 16 | Transactions | ⬜ Not Started | — | — |
 | 17 | Validation + Error Handling | ⬜ Not Started | — | — |
 | 18 | Spring Security + JWT | ⬜ Not Started | — | — |
@@ -53,6 +53,7 @@
 ## 📝 Exercises Completed
 - [Exercise1.java](file:///c:/Users/Abhishek%20Yadav/Desktop/LearnSpringAdv/docs/01-java/Exercise1.java): Interface Segregation & Composition with Media Player (Score: 7/10)
 - [Exercise2.java](file:///c:/Users/Abhishek%20Yadav/Desktop/LearnSpringAdv/docs/01-java/Exercise2.java): Abstract Class, Interface Contract & Constructor Chaining (Score: 7.5/10)
+- [Exercise3.java](file:///c:/Users/Abhishek%20Yadav/Desktop/LearnSpringAdv/docs/01-java/Exercise3.java): Stream API Pipeline & Optional Functional Idioms (Score: 10/10)
 
 ## 🏗️ Capstone Project Progress
 - **Project**: Enterprise Task & Project Management Platform
